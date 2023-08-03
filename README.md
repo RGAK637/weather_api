@@ -17,3 +17,7 @@ I want you to write a program to get the option from the user and print the resu
 
 <p>The program should not terminate until the user press 0.</p>
 <p>The program should be modular.</p></h4>
+
+
+<h3>output</h3>
+https://raw.githubusercontent.com/RGAK637/weather_api/main/img/Screenshot%202023-08-03%20133249.png
