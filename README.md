@@ -20,4 +20,4 @@ I want you to write a program to get the option from the user and print the resu
 
 
 <h3>output</h3>
-<img scr="img/Screenshot 2023-08-03 133249.png">
+<img src="img/op.png">
