@@ -20,4 +20,4 @@ I want you to write a program to get the option from the user and print the resu
 
 
 <h3>output</h3>
-https://raw.githubusercontent.com/RGAK637/weather_api/main/img/Screenshot%202023-08-03%20133249.png
+<img scr="img/Screenshot%202023-08-03%20133249.png">
